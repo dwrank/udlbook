@@ -26,3 +26,6 @@ yarn-error.log*
 *~
 .*~
 *.swp
+*.pyc
+
+mnist1d_data.pkl
